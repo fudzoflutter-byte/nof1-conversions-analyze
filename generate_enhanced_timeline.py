@@ -544,6 +544,7 @@ def generate_html(trades_data: List[Dict], btc_data: Dict):
         .footer {{
             background: linear-gradient(135deg, #f5f5f7 0%, #e8e8ed 100%);
             padding: 40px 30px;
+            margin-top: 60px;
             text-align: center;
             border-top: 1px solid #d2d2d7;
         }}
@@ -1167,7 +1168,7 @@ def generate_html(trades_data: List[Dict], btc_data: Dict):
         <div class="footer-links">
             <a href="https://x.com/karminski3" target="_blank">@Karminski牙医</a>
             <span style="color: #d2d2d7;">|</span>
-            <a href="https://github.com" target="_blank">GitHub</a>
+            <a href="https://github.com/karminski" target="_blank">GitHub</a>
             <span style="color: #d2d2d7;">|</span>
             <a href="https://kcores.com" target="_blank">Kcores.com</a>
         </div>
