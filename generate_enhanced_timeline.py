@@ -1120,7 +1120,11 @@ def generate_html(trades_data: List[Dict], btc_data: Dict):
             }}).join('');
             
             // Format COT trace
-            const cotTrace = trade.cot_trace || 'No COT trace available';
+            let cotTrace = trade.cot_trace || 'No COT trace available';
+            // Handle case where cot_trace is an object instead of string
+            if (typeof cotTrace === 'object' && cotTrace !== null) {{
+                cotTrace = JSON.stringify(cotTrace, null, 2);
+            }}
             const cotHTML = `
                 <div class="detail-section">
                     <div class="detail-section-title">🧠 完整思考过程 (Chain of Thought)</div>
